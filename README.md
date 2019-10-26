@@ -1,5 +1,5 @@
 # TIL ( Today I Learned )
-- 매일 배운 것을 간략히 기록  --
+- 매일 배운 것을 간략히 기록  
 
 
 [2019년 10월](https://github.com/hyun-jii/TIL/blob/master/README.md#2019-10-10-thu)  
