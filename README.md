@@ -4,6 +4,10 @@
 [2019년 10월](https://github.com/hyun-jii/TIL/blob/master/README.md#2019-10-10-thu)  
 [2019년 9월](https://github.com/hyun-jii/TIL#2019-09-30--mon)  
 
+## 2019-12-26 (TUR)  
+
+폼에서 값 안넘어가는 것 , 시퀀스는 폼안에 선언안됨  
+
 ### 2019-12-14 (SAT)  
 > 
 
