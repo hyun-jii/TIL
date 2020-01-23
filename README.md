@@ -3,7 +3,7 @@
 
 [2020년 1월]()  
 [2019년 12월]()  
-[2019년 11월](https://github.com/hyun-jii/TIL#2019-11-15--fri)  
+[2019년 11월](https://github.com/hyun-jii/TIL#2019-11-15-fri)  
 [2019년 10월](https://github.com/hyun-jii/TIL/blob/master/README.md#2019-10-10-thu)  
 [2019년 9월](https://github.com/hyun-jii/TIL#2019-09-30--mon)  
 
