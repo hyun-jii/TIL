@@ -1,11 +1,18 @@
 # TIL ( Today I Learned )
 - 매일 배운 것을 간략히 기록  
 
-[2020년 1월]()  
+[2020년 1월](https://github.com/hyun-jii/TIL/blob/master/README.md#2019-01-04fri)  
 [2019년 12월](https://github.com/hyun-jii/TIL/blob/master/README.md#2019-12-14-sat)  
 [2019년 11월](https://github.com/hyun-jii/TIL#2019-11-15-fri)  
 [2019년 10월](https://github.com/hyun-jii/TIL/blob/master/README.md#2019-10-10-thu)  
 [2019년 9월](https://github.com/hyun-jii/TIL#2019-09-30--mon)  
+
+
+## 2019-01-22(WED)  
+깃허브에서 파일을 잘못 올렸을 경우, 이를 레파지토리에서 삭제하고 gitingore로 관리하고 싶다면  
+git rm 을 이용하면 된다. git rm 을 이용하여 전체 또는 해당 파일을 원격 저장소에서 삭제 할 수 있고,  
+삭제한 후, gitignore에 관리하고 싶은 파일을 추가한다.  그 후 git add를 실행한 후, commit 과 push를 해주면  
+파일이 더이상 원격 저장소에 올라가지 않는다. 하지만 히스토리는 지워지지 않는다.  
 
 ## 2019-01-04(FRI)  
 > 한 페이지 내에서 자식창의 데이터를 받아 부모창에 데이터를 뿌려주는 작업을 했다. 에이젝스를 통해 처리하였는데  
@@ -26,18 +33,14 @@
 
 
 ## 2019-12-29(SUN)  
-c:if 나 c:when 쓸때 ${state == 'total' && sort='popular'}  
-
-## 2019-12-28 (SAT)  
-마이바티스 쿼리 별칭사용시 컬럼 만들어야..  
+c:if 나 c:when 쓸때 조건을 두개 이상 주고 싶다면 ${state == 'total' && sort =='popular'}  이와 같이 하나의 ${} 안에 구성해야한다.  
+${state == 'total'} && ${sort == 'popular'} 이와 같이 구성하면 안된다.  
 
 ## 2019-12-26 (TUR)  
 
-폼에서 값 안넘어가는 것 , 시퀀스는 폼안에 선언안됨  
-
-## 2019-12-14 (SAT)  
-> 
-
+디비 insert에 필요한 값을 form에서 전달받을 경우, 시퀀스 컬럼은 선언하면 안된다.    
+시퀀스는 값을 전달받지 않아도, 쿼리문에서 시퀀스명.nextval로 생성되기 때문이다.  
+예를 들어 prj_num 컬럼이 시퀀스인데, 이를 form 태그안에서 넘겨주었을 경우, prj_num 데이터가 제대로 들어오지 않는다.  
 
 
 ## 2019-11-15 (FRI)  
@@ -56,9 +59,6 @@ c:if 나 c:when 쓸때 ${state == 'total' && sort='popular'}
 ## 2019-10-10 (THU)  
 > - JDBC 설정
 
----------------------------------------------------------------------------------------
-
-
 
 ## 2019-09-30  (MON)  
 - PL/SQL 트리거, 패키지  
@@ -69,9 +69,6 @@ c:if 나 c:when 쓸때 ${state == 'total' && sort='popular'}
 
 ## 2019-09-27  (FRI)  
 - PL/SQL 프로시저, 트리거  
-
-## 2019-09-26  (THU)
-- PL/SQL 프로시저  
 
 ## 2019-09-25  (WED)  
 
