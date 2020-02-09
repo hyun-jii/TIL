@@ -7,7 +7,14 @@
 [2019년 10월](https://github.com/hyun-jii/TIL/blob/master/README.md#2019-10-10-thu)  
 [2019년 9월](https://github.com/hyun-jii/TIL#2019-09-30--mon)  
 
-
+## 2020-02-09(SUN)  
+Mustache란?  
+수많은 언어를 지원하는 가장 심플한 템플릿 엔진이다.  
+템플릿엔진은 서버템플릿엔진, 클라이언트템플릿 엔진으로 나눌 수 있다.  
+서버템플릿엔진은 예를 들어 JSP, 클라이언트템플릿 엔진은 Javascript라고 할 수 있다.  
+Mustache는 Mustache.js와 Mustache.java 두 가지 모두 존재하여, 하나의 문법으로  
+서버와 클라이언트템플릿 모두 사용 가능하다.  
+로직코드를 사용할 수 없어서 뷰의 역할과 서버의 역할을 명확히 구분가능하다.  
 
 ## 2020-02-05(WED)  
 Javascript 의 var, const, let의 차이점  
