@@ -1,7 +1,7 @@
 # TIL ( Today I Learned )
 - 매일 배운 것을 간략히 기록  
 
-[2020년 2월](httsp://github.com/hyun-jii/TIL#2020-02-09sun)  
+[2020년 2월](https://github.com/hyun-jii/TIL#2020-02-09sun)  
 [2020년 1월](https://github.com/hyun-jii/TIL#2020-01-22wed)  
 [2019년 12월](https://github.com/hyun-jii/TIL#2019-12-30mon)  
 [2019년 11월](https://github.com/hyun-jii/TIL#2019-11-15-fri)  
