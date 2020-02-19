@@ -8,6 +8,17 @@
 [2019년 10월](https://github.com/hyun-jii/TIL#2019-10-10-thu)  
 [2019년 9월](https://github.com/hyun-jii/TIL#2019-09-30--mon)  
 
+## 2020-02-18(TUE)  
+- IaaS(Infrastructure as a Service)  
+기존 물리 장비를 미들웨어와 함께 묶어둔 서비스로, 가상머신, 스토리지, 네트워크 운영체제 등의 IT인프라를 대여해주는 서비스이다.  
+AWS의 EC2와 S3가 IaaS 이다.  
+- Paas(Platform as a Service)  
+아이아스보다 더 많은 기능을 제공해주는 서비스 이다.  
+AWS의 빈스톡, 헤로쿠등이 있다.  
+- Saas(Software as a Service)  
+소프트웨어 서비스이다. 개발이 아닌 직접 사용하는 서비스이다.  
+구글 드라이브, 네이버클라우드가 이에 속한다.  
+
 ## 2020-02-09(SUN)  
 Mustache란?  
 수많은 언어를 지원하는 가장 심플한 템플릿 엔진이다.  
