@@ -8,6 +8,10 @@
 [2019년 10월](https://github.com/hyun-jii/TIL#2019-10-10-thu)  
 [2019년 9월](https://github.com/hyun-jii/TIL#2019-09-30--mon)  
 
+## 2020-02-23(SUN)  
+리눅스에서 로컬 서버 열린 포트 확인하는 방법 netstat -tnlp  
+해당 서버 죽이기 kill -15 
+
 ## 2020-02-22(SAT)  
 - CI 와 CD  
 CI(Continuous Integration)는 지속적인 통합으로, 자동으로 테스트와 빌드가 수행되어, 안정적인 배포파일을 만드는 과정이다. ex) TravisCI    
