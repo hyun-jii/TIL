@@ -8,6 +8,11 @@
 [2019년 10월](https://github.com/hyun-jii/TIL#2019-10-10-thu)  
 [2019년 9월](https://github.com/hyun-jii/TIL#2019-09-30--mon)  
 
+## 2020-02-22(SAT)  
+- CI 와 CD  
+CI(Continuous Integration)는 지속적인 통합으로, 자동으로 테스트와 빌드가 수행되어, 안정적인 배포파일을 만드는 과정이다. ex) TravisCI    
+CD(Continuous Deployment)는 위 빌드 결과를 자동으로 운영 서버에서 배포까지 진행되는 과정이다. ex) CodeDeploy  
+
 ## 2020-02-18(TUE)  
 - IaaS(Infrastructure as a Service)  
 기존 물리 장비를 미들웨어와 함께 묶어둔 서비스로, 가상머신, 스토리지, 네트워크 운영체제 등의 IT인프라를 대여해주는 서비스이다.  
