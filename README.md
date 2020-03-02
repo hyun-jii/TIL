@@ -8,6 +8,14 @@
 [2019년 10월](https://github.com/hyun-jii/TIL#2019-10-10-thu)  
 [2019년 9월](https://github.com/hyun-jii/TIL#2019-09-30--mon)  
 
+## 2020-03-02(Mon)  
+배포 스크립트 작성 후 배포 실행 시 계속 `Invalid or corrupt jarfile` 이라는 에러가 떴다.  
+아무리 생각해도 여러번 배포로 생성된 여러개의 jar파일이 존재하여 jar파일을 못읽어오는 것 같았다.  
+그래서 찾아보니 스크립트 부분에서  
+`JAR_NAME=$(ls -tr $REPOSITORY/ | grep *jar | tail -n 1)` 이 부분에서  
+* jar 가 문제였다..ㅠㅠ jar파일이 하나일때는 상관없지만 여러개의 jar 파일이 존재할 경우  
+grep jar로 써주어야 한다. 아무래도 마지막 jar파일 하나만 가지고 오는 명령어랑 충돌이 되는 것 같다.  
+
 ## 2020-02-23(SUN)  
 리눅스에서 로컬 서버 열린 포트 확인하는 방법 netstat -tnlp  
 해당 서버 죽이기 kill -15 
