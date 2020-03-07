@@ -1,12 +1,17 @@
 # TIL ( Today I Learned )
 - 매일 배운 것을 간략히 기록  
 
+[2020년 3월](https://github.com/hyun-jii/TIL#2020-03-02sat)  
 [2020년 2월](https://github.com/hyun-jii/TIL#2020-02-09sun)  
 [2020년 1월](https://github.com/hyun-jii/TIL#2020-01-22wed)  
 [2019년 12월](https://github.com/hyun-jii/TIL#2019-12-30mon)  
 [2019년 11월](https://github.com/hyun-jii/TIL#2019-11-15-fri)  
 [2019년 10월](https://github.com/hyun-jii/TIL#2019-10-10-thu)  
 [2019년 9월](https://github.com/hyun-jii/TIL#2019-09-30--mon)  
+
+## 2020-03-07(SAT)  
+이클립스에서 프로젝트 import 후 톰캣 실행 시, 톰캣이 프로젝트를 인식하지 못한다면  
+`properties -> Project Factes` 에서 `Dynamic Web Project`를 체크해준다.  
 
 ## 2020-03-02(Mon)  
 배포 스크립트 작성 후 배포 실행 시 계속 `Invalid or corrupt jarfile` 이라는 에러가 떴다.  
