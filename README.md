@@ -9,6 +9,10 @@
 [2019년 10월](https://github.com/hyun-jii/TIL#2019-10-10-thu)  
 [2019년 9월](https://github.com/hyun-jii/TIL#2019-09-30--mon)  
 
+## 2020-03-16(MON)  
+오라클에서 문자열을 날짜로 포맷하는 것은 TO_DATE('2020-03-16','YYYY-MM-DD')  
+MySQL에서는 STR_TO_DATE('2020-03-16','%Y-%m-%d') 이다.  
+
 ## 2020-03-07(SAT)  
 이클립스에서 프로젝트 import 후 톰캣 실행 시, 톰캣이 프로젝트를 인식하지 못한다면  
 `properties -> Project Factes` 에서 `Dynamic Web Project`를 체크해준다.  
