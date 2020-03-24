@@ -9,6 +9,15 @@
 [2019년 10월](https://github.com/hyun-jii/TIL#2019-10-10-thu)  
 [2019년 9월](https://github.com/hyun-jii/TIL#2019-09-30--mon)  
 
+## 2020-03-24(TUE)  
+`int`형은 제한은 21억이다. 반면 `BigInteger`의 범위는 무한대이다.  
+1부터 100까지의 곱을 연산하는 결과는 굉장히 크기 때문에 BigInteger에 담아야한다.  
+`BigInteger a - BigInteger.ZERO;` 다음과 같은 형식으로 사용한다.  
+ZERO는 0, ONE은 1, TEN은 10으로 초기화 하는 것이다.  
+1부터 100까지의 곱을 연산했으므로, ONE으로 초기화하고 연산하였다.  
+연산은 BigInteger의 `multiply`메소드를 활용하였다.  
+그리고 int형을 BigInter형으로 변환하는 것은 `BigInteger.valueOf()`이다.  
+
 ## 2020-03-17(TUE)  
 하둡이란? 분산 환경에서 빅 데이터를 저장하고, 처리할 수 있는 자바 기반의 오픈 소스 프레임워크  
 하둡패키징으로 `HDFS`, `맵리듀스`가 있다.  
