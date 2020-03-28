@@ -9,6 +9,13 @@
 [2019년 10월](https://github.com/hyun-jii/TIL#2019-10-10-thu)  
 [2019년 9월](https://github.com/hyun-jii/TIL#2019-09-30--mon)  
 
+## 2020-03-28(SAT)  
+톰캣 서버 구동 시 콘솔에 한글 깨짐 현상 해결  
+톰캣 설치 폴더에서 `/conf/logging.properties` 파일에서  
+`java.util.logging.ConsoleHandler.encoding = UTF-8` 을 주석 처리 한다.  
+로그를 영어로 변경하기 위해선 톰캣 설정의 `VM options`에  
+`-Duser.language=en -Duser.region=US`를 추가 한다.  
+
 ## 2020-03-24(TUE)  
 `int`형은 제한은 21억이다. 반면 `BigInteger`의 범위는 무한대이다.  
 1부터 100까지의 곱을 연산하는 결과는 굉장히 크기 때문에 BigInteger에 담아야한다.  
