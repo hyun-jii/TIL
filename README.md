@@ -50,13 +50,13 @@ MySQL에서는 `STR_TO_DATE('2020-03-16','%Y-%m-%d')` 이다.
 grep jar로 써주어야 한다. 아무래도 마지막 jar파일 하나만 가지고 오는 명령어랑 충돌이 되는 것 같다.  
 
 ## 2020-02-23(SUN)  
-리눅스에서 로컬 서버 열린 포트 확인하는 방법 netstat -tnlp  
-해당 서버 죽이기 kill -15 
+리눅스에서 로컬 서버 열린 포트 확인하는 방법 `netstat -tnlp`    
+해당 서버 죽이기 `kill -15 PID`  
 
 ## 2020-02-22(SAT)  
 - CI 와 CD  
-CI(Continuous Integration)는 지속적인 통합으로, 자동으로 테스트와 빌드가 수행되어, 안정적인 배포파일을 만드는 과정이다. ex) TravisCI    
-CD(Continuous Deployment)는 위 빌드 결과를 자동으로 운영 서버에서 배포까지 진행되는 과정이다. ex) CodeDeploy  
+`CI(Continuous Integration)`는 지속적인 통합으로, 자동으로 테스트와 빌드가 수행되어, 안정적인 배포파일을 만드는 과정이다. ex) TravisCI    
+`CD(Continuous Deployment)`는 위 빌드 결과를 자동으로 운영 서버에서 배포까지 진행되는 과정이다. ex) CodeDeploy  
 
 ## 2020-02-18(TUE)  
 - IaaS(Infrastructure as a Service)  
