@@ -13,7 +13,12 @@
 RestController, ResponseBody  
 
 ## 2020-04-08(WED)  
-json, {{#data}}  
+JSONArray와 JSONArray 연결은 `addAll` 메소드를 사용한다.  
+`[{ }, { }, { }]` 형식의 파싱은  
+`Object`로 파싱한 후 `JSONArray`로 캐스팅한다.  
+그리고 반복문을 통해 `JSONObject` 생성  
+`["key"[{},{}]]`    
+`JSONObject` 파싱 후 `JSONArray`로 캐스팅한다.  
 
 ## 2020-03-28(SAT)  
 톰캣 서버 구동 시 콘솔에 한글 깨짐 현상 해결  
