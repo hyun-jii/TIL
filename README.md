@@ -11,7 +11,7 @@
 [2019년 9월](https://github.com/hyun-jii/TIL#2019-09-30--mon)  
 
 ## 2020-04-24(FRI)  
-AJAX  
+AJAX  promise then 
 
 ## 2020-04-14(TUE)  
 Javascirpt callback  
