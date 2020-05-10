@@ -1,6 +1,7 @@
 # TIL ( Today I Learned )
 - 매일 배운 것을 간략히 기록  
 
+[2020년 5월](https://github.com/hyun-jii/TIL#2020-05-10sun)  
 [2020년 4월](https://github.com/hyun-jii/TIL#2020-04-08wed)  
 [2020년 3월](https://github.com/hyun-jii/TIL#2020-03-02sat)  
 [2020년 2월](https://github.com/hyun-jii/TIL#2020-02-09sun)  
@@ -10,11 +11,21 @@
 [2019년 10월](https://github.com/hyun-jii/TIL#2019-10-10-thu)  
 [2019년 9월](https://github.com/hyun-jii/TIL#2019-09-30--mon)  
 
+## 2020-05-10(SUN)  
+`Base64` 는 인코딩 방식을 의미한다.  
+Basic 인증 방식에 쓰이는데, `Base64` 인증은 복호화가 가능하기 때문에 보안이 취약하다.  
+그러므로 https / tls 와 함께 사용해야 한다.  
+javascript 에서 `btoa()` 인코딩 하는 메소드 `atob()`는 디코딩 하는 메소드이다.  
+
 ## 2020-04-24(FRI)  
-AJAX  promise then 
+AJAX는 `promise` 객체를 내장하고 있어서,    
+`then()` 을 활용하여, ajax 실행이 끝난 후 다른 메소드를 실행할 수 있다.  
 
 ## 2020-04-14(TUE)  
-Javascirpt callback  
+Javascript 에서 ajax 실행 후 다른 메소드 실행 시, 별도 처리를 하지 않으면  
+두 메소드가 동시에 실행되어, 원하는 결과 값이 나오지 않는다.  
+이 때 callback 을 사용할 수 있는데, callback은 callback 지옥에 빠지기 쉬우므로  
+promise를 사용하여 처리하는게 더 좋다.  
 
 ## 2020-04-09(TUR)  
 RestController, ResponseBody  
