@@ -11,6 +11,13 @@
 [2019년 10월](https://github.com/hyun-jii/TIL#2019-10-10-thu)  
 [2019년 9월](https://github.com/hyun-jii/TIL#2019-09-30--mon)  
 
+## 2019-05-15(FRI)  
+`gulp` 란 node.js 기반의 task runner 이다.  
+반복적이고 귀찮은 작업이나, 프론트엔드 빌드에 필요한 작업들을 쉽게 처리할 수 있다.  
+ex) 코드 작성 -> Javascript Test -> Javascript Minify -> Javascript Merge  
+-> CSS Minify -> CSS Merge  
+위와 같은 일을 gulp 로 해결 가능  
+
 ## 2020-05-10(SUN)  
 `Base64` 는 인코딩 방식을 의미한다.  
 Basic 인증 방식에 쓰이는데, `Base64` 인증은 복호화가 가능하기 때문에 보안이 취약하다.  
