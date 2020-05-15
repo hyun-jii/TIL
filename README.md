@@ -18,7 +18,7 @@ ex) 코드 작성 -> Javascript Test -> Javascript Minify -> Javascript Merge
 -> CSS Minify -> CSS Merge  
 위와 같은 일을 gulp 로 해결 가능  
 `pm2` 란 노드 프로세스 매니징 도구 -> 터미널 환경에서 node의 관리 용이  
-참조 https://medium.com/harrythegreat/pm2-node-js-%EC%84%9C%EB%B2%84%EB%A5%BC-%EB%8D%94-%EC%89%BD%EA%B2%8C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-1-12d30b0fedbe  
+[참조](https://medium.com/harrythegreat/pm2-node-js-%EC%84%9C%EB%B2%84%EB%A5%BC-%EB%8D%94-%EC%89%BD%EA%B2%8C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-1-12d30b0fedbe)    
 
 ## 2020-05-10(SUN)  
 `Base64` 는 인코딩 방식을 의미한다.  
