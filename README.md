@@ -12,7 +12,17 @@
 [2019년 9월](https://github.com/hyun-jii/TIL#2019-09-30--mon)  
 
 ## 2020-05-22(FRI)  
-module.exports, exports, CRLF LF  
+리눅스 시스템에서 한줄의 끝이 `LF`로 이루어지고,  
+윈도우에서 `CR`(Carriage Return)과 `LF`(Line Feed)가 합쳐진 `CRLF`로 이루어진다.  
+터미널에서 이와 같은 오류가 발생하면, Git 협업으로 인한 Whitespace 에러이다.  
+다음과 같은 방법을 해결하기 위해서는  
+`git config --global core.autocrlf true`  
+프로젝트에만 적용하고 싶을 때는 --global 옵션 해제  
+단반향 변환은 다음과 같다.  
+`git config --global core.autocrlf true input`  
+변환하지 않고, 에러 메시지만 끄고싶다면  
+`false`를 입력한다.  
+module.exports, exports    
 
 ## 2020-05-15(FRI)  
 `gulp` 란 node.js 기반의 task runner 이다.  
