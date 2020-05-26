@@ -13,6 +13,7 @@
 
 ## 2020-05-26(TUE)  
 git stash, git stash pop, git branch  
+https://jhhwang4195.tistory.com/4  
 
 ## 2020-05-22(FRI)  
 리눅스 시스템에서 한줄의 끝이 `LF`로 이루어지고,  
