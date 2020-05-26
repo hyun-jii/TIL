@@ -11,6 +11,9 @@
 [2019년 10월](https://github.com/hyun-jii/TIL#2019-10-10-thu)  
 [2019년 9월](https://github.com/hyun-jii/TIL#2019-09-30--mon)  
 
+## 2020-05-26(TUE)  
+git stash, git stash pop, git branch  
+
 ## 2020-05-22(FRI)  
 리눅스 시스템에서 한줄의 끝이 `LF`로 이루어지고,  
 윈도우에서 `CR`(Carriage Return)과 `LF`(Line Feed)가 합쳐진 `CRLF`로 이루어진다.  
