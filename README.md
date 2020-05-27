@@ -11,6 +11,9 @@
 [2019년 10월](https://github.com/hyun-jii/TIL#2019-10-10-thu)  
 [2019년 9월](https://github.com/hyun-jii/TIL#2019-09-30--mon)  
 
+## 2020-05-27(WED)  
+exec(), lastindex, slice()  
+
 ## 2020-05-26(TUE)  
 git stash, git stash pop, git branch  
 https://jhhwang4195.tistory.com/4  
