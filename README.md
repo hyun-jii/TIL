@@ -13,6 +13,7 @@
 
 ## 2020-05-27(WED)  
 exec(), lastindex, slice()  
+replace()는 정규식을 사용하지 않으면, 첫번째 해당되는 것만 replace  
 
 ## 2020-05-26(TUE)  
 git stash, git stash pop, git branch  
