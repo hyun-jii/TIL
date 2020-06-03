@@ -11,6 +11,17 @@
 [2019년 10월](https://github.com/hyun-jii/TIL#2019-10-10-thu)  
 [2019년 9월](https://github.com/hyun-jii/TIL#2019-09-30--mon)  
 
+## 2020-06-03(WED)  
+nodeJs에서 제공하는 assert 에서 strict 사용을 권장한다.  
+`const assert = require('assert').strict`  
+위와 같이 사용하면, equal() 이나 deepEqual()을 strict 모드로 바꿔준다.  
+deepEqual()만 써도 deepStrictEqual()를 쓰는 것과 같다.  
+`equal(), strictEqual()` , `deepEqual(), deepStrictEqual()`  
+객체 비교를 할 경우에는 equal()를 사용하면 테스트가 실패한다.  
+객체의 참조만을 비교하고, 객체 내부를 비교하지 않기 때문이다.  
+그래서 `deepEqual`를 사용하는데, 이는 객체 내부도 같이 비교한다.  
+https://hyunseob.github.io/2016/05/09/assert-nodejs-test-module/  
+
 ## 2020-05-27(WED)  
 exec(), lastindex, slice()  
 replace()는 정규식을 사용하지 않으면, 첫번째 해당되는 것만 replace  
