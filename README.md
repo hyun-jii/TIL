@@ -15,6 +15,7 @@
 _.filter  
 _.some  
 _.every  
+_.cloneDeep  
 
 ## 2020-06-03(WED)  
 nodeJs에서 제공하는 assert 에서 strict 사용을 권장한다.  
