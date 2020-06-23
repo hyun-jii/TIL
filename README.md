@@ -11,11 +11,15 @@
 [2019년 10월](https://github.com/hyun-jii/TIL#2019-10-10-thu)  
 [2019년 9월](https://github.com/hyun-jii/TIL#2019-09-30--mon)  
 
+## 2020-06-23(TUE)  
+JSON.stringify  
+
 ## 2020-06-22(MON)  
 _.filter  
 _.some  
 _.every  
 _.cloneDeep  
+_.set  
 
 ## 2020-06-03(WED)  
 nodeJs에서 제공하는 assert 에서 strict 사용을 권장한다.  
