@@ -11,8 +11,12 @@
 [2019년 10월](https://github.com/hyun-jii/TIL#2019-10-10-thu)  
 [2019년 9월](https://github.com/hyun-jii/TIL#2019-09-30--mon)  
 
+## 2020-06-25(TUR)  
+_.forEach, _.each  
+
 ## 2020-06-23(TUE)  
 JSON.stringify  
+ng-value , value  
 
 ## 2020-06-22(MON)  
 _.filter  
@@ -21,6 +25,7 @@ _.every
 _.cloneDeep  
 _.set  
 https://ui.toast.com/weekly-pick/ko_20190515/  
+https://lodash.com/docs/4.17.15#prototype-value  
 
 ## 2020-06-03(WED)  
 nodeJs에서 제공하는 assert 에서 strict 사용을 권장한다.  
