@@ -11,6 +11,10 @@
 [2019년 10월](https://github.com/hyun-jii/TIL#2019-10-10-thu)  
 [2019년 9월](https://github.com/hyun-jii/TIL#2019-09-30--mon)  
 
+## 2020-07-29(WED)  
+angularJs 에서 커스텀 디렉티브를 element로 구성할 경우,  
+`template` 또는 ` 이 꼭 필요하다.  
+
 ## 2020-07-28(TUE)  
 http://www.nextree.co.kr/p4850/  
 
