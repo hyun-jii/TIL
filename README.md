@@ -13,7 +13,7 @@
 
 ## 2020-07-29(WED)  
 angularJs 에서 커스텀 디렉티브를 element로 구성할 경우,  
-`template` 또는 ` 이 꼭 필요하다.  
+`template` 또는 `templateUrl` 이 꼭 필요하다.  
 
 ## 2020-07-28(TUE)  
 http://www.nextree.co.kr/p4850/  
