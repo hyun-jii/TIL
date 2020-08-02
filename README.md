@@ -1,6 +1,8 @@
 # TIL ( Today I Learned )
 - 매일 배운 것을 간략히 기록  
 
+[2020년 7월](https://github.com/hyun-jii/TIL#2020-07-28tue)  
+[2020년 6월](https://github.com/hyun-jii/TIL#2020-06-03wed)  
 [2020년 5월](https://github.com/hyun-jii/TIL#2020-05-10sun)  
 [2020년 4월](https://github.com/hyun-jii/TIL#2020-04-08wed)  
 [2020년 3월](https://github.com/hyun-jii/TIL#2020-03-02sat)  
@@ -13,12 +15,14 @@
 
 ## 2020-07-30(TUR)  
 @, =, &  
+optional 은 `?`  
 
 ## 2020-07-29(WED)  
 angularJs 에서 커스텀 디렉티브를 element로 구성할 경우,  
 `template` 또는 `templateUrl` 이 꼭 필요하다.  
 
 ## 2020-07-28(TUE)  
+angularJs 사용자 정의 디렉티브 생성 참조  
 http://www.nextree.co.kr/p4850/  
 
 ## 2020-06-25(TUR)  
