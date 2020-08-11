@@ -13,6 +13,9 @@
 [2019년 10월](https://github.com/hyun-jii/TIL#2019-10-10-thu)  
 [2019년 9월](https://github.com/hyun-jii/TIL#2019-09-30--mon)  
 
+## 2020-08-11(TUE)  
+setTimeout, setInterval  
+
 ## 2020-08-03(MON)  
 독립적인 SCOPE  
 함수 표현식, 함수 선언식  
