@@ -14,7 +14,9 @@
 [2019년 9월](https://github.com/hyun-jii/TIL#2019-09-30--mon)  
 
 ## 2020-08-11(TUE)  
-setTimeout, setInterval  
+- setTimeout : 일정 시간 간격 후에 함수가 한번 실행  
+- setInterval : 일정 시간 간격으로 함수가 주기적으로 실행
+setTimeout과 setInterval을 중지시키기 위해서는 clearTimeout과 clearInterval 을 사용한다.  
 
 ## 2020-08-03(MON)  
 독립적인 SCOPE  
