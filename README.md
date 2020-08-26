@@ -13,6 +13,11 @@
 [2019년 10월](https://github.com/hyun-jii/TIL#2019-10-10-thu)  
 [2019년 9월](https://github.com/hyun-jii/TIL#2019-09-30--mon)  
 
+## 2020-08-24(MON)  
+attribute directive의 경우 scope: false 라면 
+scope.item 이 아니라 attrs.item 으로 접근해야 한다.  
+$eval, $parse  
+
 ## 2020-08-21(FRI)  
 angular scope: {}, scope: false, scope:true  
 
