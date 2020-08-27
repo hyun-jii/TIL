@@ -14,8 +14,9 @@
 [2019년 9월](https://github.com/hyun-jii/TIL#2019-09-30--mon)  
 
 ## 2020-08-24(MON)  
-attribute directive의 경우 scope: false 라면 
-scope.item 이 아니라 attrs.item 으로 접근해야 한다.  
+`scope: false` 인 경우 디렉티브의 scope가 없기 때문에, 모두 scope가 같다. 그러므로 getter, setter 접근 시 $scope로 접근하면 된다.    
+그러나 하나의 디렉티브 `scope: true` 인 경우 getter, setter 가 부모 scope에 선언되어 있으므로,  
+상속받은 디렉티브에서 getter, setter를 사용할 때는 `$scope.$parent`로 접근해야 한다.  
 $eval, $parse  
 
 ## 2020-08-21(FRI)  
