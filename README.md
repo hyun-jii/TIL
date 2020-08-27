@@ -17,10 +17,13 @@
 `scope: false` 인 경우 디렉티브의 scope가 없기 때문에, 모두 scope가 같다. 그러므로 getter, setter 접근 시 $scope로 접근하면 된다.    
 그러나 하나의 디렉티브 `scope: true` 인 경우 getter, setter 가 부모 scope에 선언되어 있으므로,  
 상속받은 디렉티브에서 getter, setter를 사용할 때는 `$scope.$parent`로 접근해야 한다.  
-$eval, $parse  
 
 ## 2020-08-21(FRI)  
-angular scope: {}, scope: false, scope:true  
+`scope: false` - no scope로 뷰와 directive가 바라보는 scope가 같다.  
+변경사항이 즉시 반영된다.  
+`scope: true` - inherited scope로  부모 스코프를 상속받으며, 자식 스코프에서 부모스코프 접근 시, no scope 보다 안전하다.  
+no scope는 값이 원치 않게 바뀔 수 있기 때문에..?  
+`isolated scope` - 독립적인 scope로 
 
 
 ## 2020-08-11(TUE)  
@@ -30,7 +33,6 @@ setTimeout과 setInterval을 중지시키기 위해서는 clearTimeout과 clearI
 setInterval 보다 재귀적인 setTimeout 이 더 유연하다.  
 
 ## 2020-08-03(MON)  
-독립적인 SCOPE  
 함수 표현식, 함수 선언식  
 
 ## 2020-07-30(TUR)  
