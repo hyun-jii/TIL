@@ -13,6 +13,9 @@
 [2019년 10월](https://github.com/hyun-jii/TIL#2019-10-10-thu)  
 [2019년 9월](https://github.com/hyun-jii/TIL#2019-09-30--mon)  
 
+## 2020-09-14(MON)  
+ngChange 와 ngClick 의 차이  
+
 ## 2020-08-24(MON)  
 `scope: false` 인 경우 디렉티브의 scope가 없기 때문에, 모두 scope가 같다. 그러므로 getter, setter 접근 시 $scope로 접근하면 된다.    
 그러나 하나의 디렉티브 `scope: true` 인 경우 getter, setter 가 부모 scope에 선언되어 있으므로,  
