@@ -15,6 +15,8 @@
 
 ## 2020-09-14(MON)  
 ngChange 와 ngClick 의 차이  
+`ngChange` 는 호출되는 순간 상태 값이 변한다.  
+반면 `ngClick`은 click이라는 동작 그자체이며, 상태값은 별도로 변경해야 변한다.   
 
 ## 2020-08-24(MON)  
 `scope: false` 인 경우 디렉티브의 scope가 없기 때문에, 모두 scope가 같다. 그러므로 getter, setter 접근 시 $scope로 접근하면 된다.    
