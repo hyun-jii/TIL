@@ -39,6 +39,7 @@ setInterval 보다 재귀적인 setTimeout 이 더 유연하다.
 
 ## 2020-08-03(MON)  
 함수 표현식, 함수 선언식  
+https://hyun-jii.github.io/2020/2020-08-30-first/  
 
 ## 2020-07-30(TUR)  
 @, =, &  
