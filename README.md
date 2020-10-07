@@ -1,6 +1,8 @@
 # TIL ( Today I Learned )
 - 매일 배운 것을 간략히 기록  
 
+[2020년 9월](https://github.com/hyun-jii/TIL#2020-09-14mon)    
+[2020년 8월](https://github.com/hyun-jii/TIL#2020-08-03mon)    
 [2020년 7월](https://github.com/hyun-jii/TIL#2020-07-28tue)  
 [2020년 6월](https://github.com/hyun-jii/TIL#2020-06-03wed)  
 [2020년 5월](https://github.com/hyun-jii/TIL#2020-05-10sun)  
@@ -29,7 +31,6 @@ ngChange 와 ngClick 의 차이
 `scope: true` - inherited scope로  부모 스코프를 상속받으며, 자식 스코프에서 부모스코프 접근 시, no scope 보다 안전하다.  
 no scope는 값이 원치 않게 바뀔 수 있기 때문에..?  
 `isolated scope` - 독립적인 scope로 
-
 
 ## 2020-08-11(TUE)  
 - setTimeout : 일정 시간 간격 후에 함수가 한번 실행  
@@ -287,10 +288,6 @@ ${state == 'total'} && ${sort == 'popular'} 이와 같이 구성하면 안된다
 > FUNCTION 정의  
 > PL/SQL 문법이 자바와 SQL 문법의 중간의 느낌이었다. 그래서 익숙했지만 문법들이 둘이 섞여서 많이 헷갈렸다.  
 
-
-
-
-
 ## 2019-09-24  (TUE)  
 
 - [HR 스키마 ERD 기반 테이블 복사](https://github.com/hyun-jii/Oracle)    
@@ -298,11 +295,6 @@ ${state == 'total'} && ${sort == 'popular'} 이와 같이 구성하면 안된다
 > 7개의 테이블들이 서로를 참조하고 있어, 이 관계를 파악하고 참조순으로 테이블을 생성하였다.  
 > 이 과정에서 한 테이블이 자기 자신을 참조할 수 있다는 것을 알게되었고,
 > 제약조건을 잘못 설정하면 제약조건을 지우고 다시 추가 해야했다.  
-
-
-
-
-
 
 ## 2019-09-23 (MON)  
 
