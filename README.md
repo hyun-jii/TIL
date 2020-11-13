@@ -15,6 +15,12 @@
 [2019년 10월](https://github.com/hyun-jii/TIL#2019-10-10-thu)  
 [2019년 9월](https://github.com/hyun-jii/TIL#2019-09-30--mon)  
 
+## 2020-11-13(FRI)  
+git stash 후, stash 한 것을 잃어버렸을 때,
+`git fsck --no-reflog`  
+`git show SHA-1 코드`  
+`git stash apply SHA-1 코드`  
+
 ## 2020-09-14(MON)  
 ngChange 와 ngClick 의 차이  
 `ngChange` 는 호출되는 순간 상태 값이 변한다.  
