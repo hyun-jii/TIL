@@ -16,7 +16,7 @@
 [2019년 9월](https://github.com/hyun-jii/TIL#2019-09-30--mon)  
 
 ## 2020-11-13(FRI)  
-git stash 후, stash 한 것을 잃어버렸을 때,
+git stash 후, stash 한 것을 잃어버렸을 때  
 `git fsck --no-reflog`  
 `git show SHA-1 코드`  
 `git stash apply SHA-1 코드`  
