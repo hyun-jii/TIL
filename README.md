@@ -16,6 +16,12 @@
 [2019년 10월](https://github.com/hyun-jii/TIL#2019-10-10-thu)  
 [2019년 9월](https://github.com/hyun-jii/TIL#2019-09-30--mon)  
 
+## 2021-01-07(TUR)  
+window === $window  
+document !== $document  
+$(document) === $document  
+angular.element(document) === $document  
+
 ## 2020-11-13(FRI)  
 git stash 후, stash 한 것을 잃어버렸을 때  
 `git fsck --no-reflog`  
