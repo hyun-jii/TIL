@@ -23,6 +23,7 @@ https://docs.angularjs.org/api/ng/input/input%5Bcheckbox%5D
 
 ## 2021-01-07(TUR)  
 window === $window  
+$(window) === angular.element(window)  
 document !== $document  
 $(document) === $document  
 angular.element(document) === $document  
