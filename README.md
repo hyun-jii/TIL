@@ -34,6 +34,7 @@ git stash 후, stash 한 것을 잃어버렸을 때
 `git fsck --no-reflog`  
 `git show SHA-1 코드`  
 `git stash apply SHA-1 코드`  
+https://nochoco-lee.tistory.com/218  
 
 ## 2020-09-14(MON)  
 ngChange 와 ngClick 의 차이  
