@@ -16,6 +16,11 @@
 [2019년 10월](https://github.com/hyun-jii/TIL#2019-10-10-thu)  
 [2019년 9월](https://github.com/hyun-jii/TIL#2019-09-30--mon)  
 
+## 2021-07-15(TUR). 
+Vue 의 template 에 object 속성을 바인딩 한 후, 속성을 변경하면 Vue 는 속성의 변화를 감지할 수 없기 때문에 re-rendering 이 이루어지지 않는다.  
+그러므로 변경된 데이터값이 제대로 바인딩 되지 않는다.  
+속성의 변화를 감지하려면 object 자체를 변경하거나, `Vue.set(object, key, value)` 를 사용하여 변경된 속성에 반응성을 추가할 수 있다.  
+https://kr.vuejs.org/v2/guide/reactivity.html  
 
 ## 2021-02-03(WED)   
 angular에서 checkbox의 체크 해제를 컨트롤 할 때 ng-model이 boolean이 아니라면,  
