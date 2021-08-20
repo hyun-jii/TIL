@@ -16,6 +16,10 @@
 [2019년 10월](https://github.com/hyun-jii/TIL#2019-10-10-thu)  
 [2019년 9월](https://github.com/hyun-jii/TIL#2019-09-30--mon)  
 
+## 2021-08-20(FRI). 
+vue 에서 computed 에 비동기 처리  
+https://github.com/foxbenjaminfox/vue-async-computed  
+
 ## 2021-07-15(TUR). 
 Vue 의 template 에 object 속성을 바인딩 한 후, 속성을 변경하면 Vue 는 속성의 변화를 감지할 수 없기 때문에 re-rendering 이 이루어지지 않는다.  
 그러므로 변경된 데이터값이 제대로 바인딩 되지 않는다.  
