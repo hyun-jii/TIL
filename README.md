@@ -1,21 +1,6 @@
 # TIL ( Today I Learned )
 - 매일 배운 것을 간략히 기록  
 
-[2020년 11월](https://github.com/hyun-jii/TIL#2020-11-13fri)  
-[2020년 9월](https://github.com/hyun-jii/TIL#2020-09-14mon)    
-[2020년 8월](https://github.com/hyun-jii/TIL#2020-08-03mon)    
-[2020년 7월](https://github.com/hyun-jii/TIL#2020-07-28tue)  
-[2020년 6월](https://github.com/hyun-jii/TIL#2020-06-03wed)  
-[2020년 5월](https://github.com/hyun-jii/TIL#2020-05-10sun)  
-[2020년 4월](https://github.com/hyun-jii/TIL#2020-04-08wed)  
-[2020년 3월](https://github.com/hyun-jii/TIL#2020-03-02sat)  
-[2020년 2월](https://github.com/hyun-jii/TIL#2020-02-09sun)  
-[2020년 1월](https://github.com/hyun-jii/TIL#2020-01-04fri)  
-[2019년 12월](https://github.com/hyun-jii/TIL#2019-12-30mon)  
-[2019년 11월](https://github.com/hyun-jii/TIL#2019-11-15-fri)  
-[2019년 10월](https://github.com/hyun-jii/TIL#2019-10-10-thu)  
-[2019년 9월](https://github.com/hyun-jii/TIL#2019-09-30--mon)  
-
 ## 2021-08-20(FRI). 
 vue 에서 computed 에 비동기 처리  
 https://github.com/foxbenjaminfox/vue-async-computed  
