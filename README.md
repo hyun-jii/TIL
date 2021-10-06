@@ -1,6 +1,8 @@
 # TIL ( Today I Learned )
 - 매일 배운 것을 간략히 기록  
 
+https://stackoverflow.com/questions/17382587/what-does-string-params-mean-if-passed-as-a-parameter
+
 ## 2021-08-20(FRI). 
 vue 에서 computed 에 비동기 처리  
 https://github.com/foxbenjaminfox/vue-async-computed  
