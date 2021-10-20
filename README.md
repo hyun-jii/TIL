@@ -1,6 +1,10 @@
 # TIL ( Today I Learned )
 - 매일 배운 것을 간략히 기록  
 
+## 2021-10-20(WED). 
+eureka locator enabled. 
+https://www.appsdeveloperblog.com/spring-cloud-api-gateway-automatic-mapping-of-routes/. 
+
 https://stackoverflow.com/questions/17382587/what-does-string-params-mean-if-passed-as-a-parameter
 
 ## 2021-08-20(FRI). 
