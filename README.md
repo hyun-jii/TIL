@@ -1,6 +1,8 @@
 # TIL ( Today I Learned )
 - 매일 배운 것을 간략히 기록  
 
+r2dbc ReactiveCrudRepository, r2dbcEntityTemplate. 
+
 ## 2021-10-20(WED). 
 eureka locator enabled. 
 https://www.appsdeveloperblog.com/spring-cloud-api-gateway-automatic-mapping-of-routes/. 
