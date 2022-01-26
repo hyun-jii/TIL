@@ -1,7 +1,11 @@
 # TIL ( Today I Learned )
 - 매일 배운 것을 간략히 기록  
+  
 
+spring boot 2.4 profile. 
 http://honeymon.io/tech/2021/01/16/spring-boot-config-data-migration.html. 
+https://spring.io/blog/2020/08/14/config-file-processing-in-spring-boot-2-4. 
+
 
 
 r2dbc ReactiveCrudRepository, r2dbcEntityTemplate. 
