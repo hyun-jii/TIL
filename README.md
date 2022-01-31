@@ -2,8 +2,8 @@
 - 매일 배운 것을 간략히 기록  
   
 
-spring boot 2.4 profile. 
-http://honeymon.io/tech/2021/01/16/spring-boot-config-data-migration.html. 
+spring boot 2.4 profile.  
+http://honeymon.io/tech/2021/01/16/spring-boot-config-data-migration.html.  
 https://spring.io/blog/2020/08/14/config-file-processing-in-spring-boot-2-4. 
 
 
@@ -13,8 +13,6 @@ r2dbc ReactiveCrudRepository, r2dbcEntityTemplate.
 ## 2021-10-20(WED). 
 eureka locator enabled. 
 https://www.appsdeveloperblog.com/spring-cloud-api-gateway-automatic-mapping-of-routes/. 
-
-https://stackoverflow.com/questions/17382587/what-does-string-params-mean-if-passed-as-a-parameter
 
 ## 2021-08-20(FRI). 
 vue 에서 computed 에 비동기 처리  
