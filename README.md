@@ -1,6 +1,9 @@
 # TIL ( Today I Learned )
 - 매일 배운 것을 간략히 기록  
-  
+
+brew install docker / brew install -cask docker. 
+https://stackoverflow.com/questions/40523307/brew-install-docker-does-not-include-docker-engine/43365425#43365425  
+
 
 spring boot 2.4 profile.  
 http://honeymon.io/tech/2021/01/16/spring-boot-config-data-migration.html.  
