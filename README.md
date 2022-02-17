@@ -1,7 +1,16 @@
 # TIL ( Today I Learned )
 - 매일 배운 것을 간략히 기록  
 
-brew install docker / brew install -cask docker. 
+## 2022-02-17(TUR).   
+@JsonInclude. 
+https://junho85.pe.kr/1626. 
+
+Jackson 어노테이션  
+https://ckddn9496.tistory.com/71  
+
+
+
+brew install docker / brew install -cask docker.   
 https://stackoverflow.com/questions/40523307/brew-install-docker-does-not-include-docker-engine/43365425#43365425  
 
 
