@@ -1,6 +1,12 @@
 # TIL ( Today I Learned )
 - 매일 배운 것을 간략히 기록  
 
+## 2022-05-13(FRI). 
+webflux 의 Mono, Flux 는 Service 에서 발생한 exception을 throw 해도 Controller 에서 Exception 을 잡을 수 없다.  
+
+## 2022-05-12(TUR). 
+@Transient, @ReadOnlyProperty. 
+
 ## 2022-02-17(TUR).   
 @JsonInclude. 
 https://junho85.pe.kr/1626. 
