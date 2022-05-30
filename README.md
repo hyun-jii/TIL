@@ -1,6 +1,10 @@
 # TIL ( Today I Learned )
 - 매일 배운 것을 간략히 기록  
 
+## 2022-05-30(MON). 
+Optional 바르게 사용하기  
+https://homoefficio.github.io/2019/10/03/Java-Optional-%EB%B0%94%EB%A5%B4%EA%B2%8C-%EC%93%B0%EA%B8%B0/  
+
 ## 2022-05-13(FRI). 
 webflux 의 Mono, Flux 는 Service 에서 발생한 exception을 throw 해도 Controller 에서 Exception 을 잡을 수 없다.  
 
