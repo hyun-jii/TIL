@@ -3,6 +3,7 @@
 
 ## 2022-06-17(FRI). 
 webflux CORS, CSRF, Headers. 
+
 https://docs.spring.io/spring-security/reference/reactive/exploits/headers.html.  
 
 
