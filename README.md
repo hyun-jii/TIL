@@ -1,7 +1,7 @@
 # TIL ( Today I Learned )
 - 매일 배운 것을 간략히 기록  
 
-# 2022-08-30 (TUE). 
+## 2022-08-30 (TUE)  
 https://docs.spring.io/spring-boot/docs/current/reference/html/howto.html#howto.data-access.jpa-properties.  
 spring boot 에서 h2 를 사용하는 경우 ddl-auto default가 create-drop 이지만
 flyway 나 liquibase 관리자를 적용하면 default 가 `none` 으로 변경됨  
