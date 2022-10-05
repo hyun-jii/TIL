@@ -1,6 +1,11 @@
 # TIL ( Today I Learned )
 - 매일 배운 것을 간략히 기록  
 
+## 2022-10-05 (WED)     
+ddl-auto, hbm2ddl.auto  
+https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#spring.jpa.hibernate.ddl-auto
+
+
 ## 2022-10-04 (TUE). 
 JpaTransactionManager vs DatasourceTransactionManager     
 https://velog.io/@dusdn2424/Spring-JPA-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EC%9D%80-%EC%A7%AC%EB%BD%95%EB%8F%84-%ED%95%B4%EC%A3%BC%EC%A7%80
