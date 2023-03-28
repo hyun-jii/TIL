@@ -1,6 +1,8 @@
 # TIL ( Today I Learned )
 - 매일 배운 것을 간략히 기록  
 
+https://sjparkk-dev1og.tistory.com/166?category=1012096  
+
 ## 2022-10-05 (WED)     
 ddl-auto, hbm2ddl.auto  
 https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#spring.jpa.hibernate.ddl-auto
