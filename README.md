@@ -1,7 +1,7 @@
 # TIL ( Today I Learned )
 - 매일 배운 것을 간략히 기록  
 
-Pagaeable  
+Pageable  
 https://sjparkk-dev1og.tistory.com/166?category=1012096  
 
 ## 2022-10-05 (WED)     
