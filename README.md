@@ -1,6 +1,11 @@
 # TIL ( Today I Learned )
 - 매일 배운 것을 간략히 기록  
 
+## 2023-03-31 (FRI)  
+getById vs findById  
+https://bcp0109.tistory.com/325  
+getById -> getReferenceById 로 변경됨  
+
 Pageable  
 https://tecoble.techcourse.co.kr/post/2021-08-15-pageable/  
 https://sjparkk-dev1og.tistory.com/166?category=1012096  
