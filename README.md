@@ -1,6 +1,10 @@
 # TIL ( Today I Learned )
 - 매일 배운 것을 간략히 기록  
 
+## 2023-04-08 (SAT)  
+JPA naming strategy  
+https://velog.io/@mumuni/Hibernate5-Naming-Strategy-%EA%B0%84%EB%8B%A8-%EC%A0%95%EB%A6%AC  
+
 ## 2023-04-06 (TUR)  
 spring boot 2.7.9 @Query nativeQuery 오류  
 https://www.inflearn.com/questions/806131/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-2-7-9-native-query-%EC%97%90%EB%9F%AC#247382  
