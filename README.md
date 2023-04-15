@@ -1,6 +1,10 @@
 # TIL ( Today I Learned )
 - 매일 배운 것을 간략히 기록  
 
+## 2023-04-15 (SAT)  
+BooleanExpression 에서 array나 list를 활용할 때 사용  
+http://querydsl.com/static/querydsl/4.2.1/apidocs/com/querydsl/core/types/dsl/Expressions.html  
+
 ## 2023-04-08 (SAT)  
 JPA naming strategy  
 https://velog.io/@mumuni/Hibernate5-Naming-Strategy-%EA%B0%84%EB%8B%A8-%EC%A0%95%EB%A6%AC  
