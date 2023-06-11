@@ -1,6 +1,10 @@
 # TIL ( Today I Learned )
 - 매일 배운 것을 간략히 기록  
 
+## 2023-06-11 (SUN)  
+- Spring Security + Thymeleaf  
+https://jangjjolkit.tistory.com/28  
+
 ## 2023-04-15 (SAT)  
 BooleanExpression 에서 array나 list를 활용할 때 사용  
 http://querydsl.com/static/querydsl/4.2.1/apidocs/com/querydsl/core/types/dsl/Expressions.html  
