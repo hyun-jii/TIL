@@ -4,6 +4,7 @@
 ## 2023-06-11 (SUN)  
 Spring Security + Thymeleaf  
 https://jangjjolkit.tistory.com/28  
+https://abbo.tistory.com/336  
 
 ## 2023-04-15 (SAT)  
 BooleanExpression 에서 array나 list를 활용할 때 사용  
