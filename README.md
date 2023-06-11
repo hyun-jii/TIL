@@ -2,7 +2,7 @@
 - 매일 배운 것을 간략히 기록  
 
 ## 2023-06-11 (SUN)  
-- Spring Security + Thymeleaf  
+Spring Security + Thymeleaf  
 https://jangjjolkit.tistory.com/28  
 
 ## 2023-04-15 (SAT)  
