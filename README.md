@@ -1,5 +1,8 @@
 # TIL ( Today I Learned )
-- 매일 배운 것을 간략히 기록  
+- 매일 배운 것을 간략히 기록
+
+## 2024-04-12  
+QueryDsl Tuple  
 
 ## 2023-07-30 (SUN)  
 조회만 할때 @Transactional 이 필요한가?  
